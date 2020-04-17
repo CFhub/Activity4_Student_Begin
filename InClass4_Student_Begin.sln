@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppActivity4", "WebAppActivity4\WebAppActivity4.csproj", "{A25565C8-9505-4968-BCBC-1DBDB8E9320D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity4", "Activity4\Activity4.csproj", "{3BECCE15-95EF-4456-A15F-1A23AEC4DEB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A25565C8-9505-4968-BCBC-1DBDB8E9320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A25565C8-9505-4968-BCBC-1DBDB8E9320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A25565C8-9505-4968-BCBC-1DBDB8E9320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A25565C8-9505-4968-BCBC-1DBDB8E9320D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BECCE15-95EF-4456-A15F-1A23AEC4DEB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BECCE15-95EF-4456-A15F-1A23AEC4DEB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BECCE15-95EF-4456-A15F-1A23AEC4DEB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BECCE15-95EF-4456-A15F-1A23AEC4DEB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3593A37B-3AC5-469D-B0ED-DAD4A5791EE7}
+	EndGlobalSection
+EndGlobal
